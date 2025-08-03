@@ -147,6 +147,10 @@ q:before, q:after {
 .contents article img {
   max-width: 100%;
 }
+.contents article {
+  clear: both;
+  display: block;
+}
 .contents article aside {
   text-align: right;
   font-style: italic;
