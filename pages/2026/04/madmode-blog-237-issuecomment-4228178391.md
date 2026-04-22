@@ -1,14 +1,14 @@
 ---
 title: "Obsidian-LiveSync: Self-Hosted (mostly)"
 date: 2026-04-11
-tags: ["obsidian", "proxmox", "couchdb", "tailscale", "self-hosted"]
+tags: ["github", "syndicated", "vm", "sync", "self-hosted", "mobile"]
 published: true
 summary: Self-hosted Obsidian sync using CouchDB on Proxmox LXC, secured with Tailscale.
 ---
 
-# Obsidian-LiveSync: Self-Hosted (*mostly)
+Self-hosted [Obsidian LiveSync](https://github.com/vrtmrz/obsidian-livesync) using CouchDB on Proxmox LXC container, secured with Tailscale VPN and end-to-end encryption.
 
-Self-hosted Obsidian sync using CouchDB on Proxmox LXC container, secured with Tailscale VPN and end-to-end encryption.
+![near-realtime sync](https://user-images.githubusercontent.com/45774780/137355323-f57a8b09-abf2-4501-836c-8cb7d2ff24a3.gif)
 
 ## Proxmox VM / Container Host
 
