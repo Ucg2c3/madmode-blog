@@ -1,6 +1,6 @@
 title: Divesting from Flickr in the Annual File Purge
 date: 2023-01-03
-tags: [photos, storage, backup, python, jupyter]
+tags: [photo, storage, backup, python, jupyter]
 published: true
 
 I spent much of this year's annual file purge recovering from [Flickr going back on their 1TB storage offer](https://blog.flickr.net/en/2022/04/19/update-free-account-limit-changes-and-enforcement-start-may-1-2022/).
