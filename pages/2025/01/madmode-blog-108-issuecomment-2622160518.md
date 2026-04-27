@@ -1,7 +1,7 @@
 ---
 title: "use archive.org, IPFS for commons, esp media (comment)"
 date: 2025-01-29
-tags: ["github", "syndicated"]
+tags: ["github", "syndicated", "publishing", "photo"]
 published: true
 ---
 
